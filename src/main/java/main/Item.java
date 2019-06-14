@@ -6,6 +6,8 @@ public class Item{
         //write your code here
     	//-------------------
 
+    	this.itemName=itemName;
+    	this.mrp=mrpItem;
     }
 	public String getItemName() {
 		return itemName;
